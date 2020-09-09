@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to FUTRON Club
 
-You can use the [editor on GitHub](https://github.com/Futron-EJUST/FUTRON/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**We hope you enjoy throughout the joureny**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### vision
 
-### Markdown
+Futron is a club that follows latest trends of both Electronics and Communication fields and simplifies them besides applying them practically. This club aims to give the opportunity for EJUST students to work in such projects, become ready to compete in such competitions and internships, and inspire them in these fields of technology.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mission
 
-```markdown
-Syntax highlighted code block
+Futron is dedicated to giving its members an insight about the ongoing advances in the fields of electronics and communication. This will be done by informative sessions and seminars on topics covering the future trends of the mentioned fields. The sessions will also be followed by workshops that allow the members to experience applying the knowledge they acquired in the sessions.
 
-# Header 1
-## Header 2
-### Header 3
+### Activities 
 
-- Bulleted
-- List
+1. Weekly sessions aimed at tackling a new concept of electronics and communication
+or providing a needed base for it.
 
-1. Numbered
-2. List
+2. Weekly workshop sessions to provide an environment for application and working
+on projects.
 
-**Bold** and _Italic_ and `Code` text
+3. Forming groups participants with the aim of applying the information provided in
+the form of projects and promoting the value of teamwork.
 
-[Link](url) and ![Image](src)
-```
+4. Guiding the mentioned groups to make a prototype for a complete advanced system
+by the end of the semester.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Summer Campaign
 
-### Jekyll Themes
+In cooperation with [Robotics club](URL), we are launching unique and interesting courses: 
+1. At this campaign, we will provide the students with unique courses that are considered as basics to help members get involved into robotics field. Those courses are selected so that they don’t conflict or repeat fuclty courses, and concentrarte at practical aspects.
+2. This campaign is necessary for students and members to be able to hold and participate in upcoming activities and workshops. Those activities and workshops are to be held (on campus) by the start of the next semester (fall 2020) to implement what the students have learned throughout the campaign.
+3. To follow launched courses, please check the links below:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Futron-EJUST/FUTRON/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [Digital Image Processing](URL)
 
-### Support or Contact
+- [MATLAB](URL)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [PCB Design](URL)
+
+- [Sensors and Actuators](URL)
+
+- [Fusion 360](URL)
+
+For more interactive and quries, please follow our [Facebook](URL) page.
+
