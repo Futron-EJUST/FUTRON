@@ -31,15 +31,15 @@ In cooperation with [E-JUST Robotics club](https://ejust-robotics-club.github.io
 2. This campaign is necessary for students and members to be able to hold and participate in upcoming activities and workshops. Those activities and workshops are to be held (on campus) by the start of the next semester (fall 2020) to implement what the students have learned throughout the campaign.
 3. To follow launched courses, please check the links below:
 
-- [Digital Image Processing](URL)
+- [Digital Image Processing](https://ejust-robotics-club.github.io/Digital-Image-Processing/)
 
-- [MATLAB](URL)
+- [MATLAB](https://ejust-robotics-club.github.io/MATLAB/)
 
-- [PCB Design](URL)
+- [PCB Design](https://ejust-robotics-club.github.io/PCB-Design/)
 
-- [Sensors and Actuators](URL)
+- [Sensors and Actuators](https://ejust-robotics-club.github.io/Sensors-Actuators/)
 
-- [Fusion 360](URL)
+- [Fusion 360](https://ejust-robotics-club.github.io/Fusion-360/)
 
 For more interactive and quries, please follow our [Facebook](URL) page.
 
