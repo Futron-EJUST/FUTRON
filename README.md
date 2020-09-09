@@ -26,7 +26,7 @@ by the end of the semester.
 
 ### Summer Campaign
 
-In cooperation with [Robotics club](URL), we are launching unique and interesting courses: 
+In cooperation with [Robotics club](https://ejust-robotics-club.github.io/Digital-Image-Processing/), we are launching unique and interesting courses: 
 1. At this campaign, we will provide the students with unique courses that are considered as basics to help members get involved into robotics field. Those courses are selected so that they don’t conflict or repeat fuclty courses, and concentrarte at practical aspects.
 2. This campaign is necessary for students and members to be able to hold and participate in upcoming activities and workshops. Those activities and workshops are to be held (on campus) by the start of the next semester (fall 2020) to implement what the students have learned throughout the campaign.
 3. To follow launched courses, please check the links below:
